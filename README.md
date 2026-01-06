@@ -74,37 +74,8 @@ Web Server: Apache
 Routing: .htaccess
 
 <h2>5. Struktur Direktori</h2>
-/rubik-timer/
-│
-├── .htaccess                # Konfigurasi routing
-├── index.php                # Entry point aplikasi
-│
-├── config/
-│   └── Database.php         # Konfigurasi koneksi database
-│
-├── controllers/
-│   ├── AdminController.php
-│   ├── AuthController.php
-│   ├── DashboardController.php
-│   └── SolveController.php
-│
-├── models/
-│   ├── Solve.php
-│   └── User.php
-│
-├── public/
-│   ├── css/
-│   │   └── style.css        # Styling aplikasi
-│   └── js/
-│       └── script.js        # Logika JavaScript
-│
-├── views/
-│   ├── admin/               # Halaman admin
-│   ├── auth/                # Halaman login & register
-│   ├── dashboard/           # Halaman dashboard user
-│   └── layouts/             # Header & footer
-│
-└── README.md
+
+<img width="509" height="718" alt="Screenshot 2026-01-06 143528" src="https://github.com/user-attachments/assets/72c38363-1044-44a4-b171-f1af75625496" />
 
 <h2>6. Cara Menjalankan Aplikasi</h2>
 
