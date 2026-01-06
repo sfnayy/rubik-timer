@@ -1,11 +1,11 @@
-1. Deskripsi Project
+<h2>1. Deskripsi Project</h2>
 
 Rubik Timer merupakan aplikasi web sederhana yang digunakan untuk mencatat dan mengelola waktu penyelesaian permainan Rubik’s Cube.
 Aplikasi ini Saya buat sebagai Tugas Ujian Akhir Semester (UAS) Mata Kuliah Pemrograman Web dengan menerapkan konsep Object Oriented Programming (OOP), pemrograman modular, serta routing menggunakan file .htaccess.
 
 Aplikasi ini memiliki sistem autentikasi dengan dua role pengguna, yaitu Admin dan User, serta menyediakan fitur pengelolaan data (CRUD), pencarian, dan pagination.
 
-2. Tujuan Pengembangan
+<h2>2. Tujuan Pengembangan</h2>
 
 Tujuan dari pengembangan aplikasi ini adalah:
 
@@ -19,8 +19,8 @@ Membuat aplikasi web yang responsif (mobile first)
 
 Memenuhi seluruh ketentuan Project UAS Pemrograman Web
 
-3. Fitur Aplikasi
-3.1 Autentikasi
+<h2>3. Fitur Aplikasi</h2>
+<h3>3.1 Autentikasi</h3>
 
 Login
 <img width="1919" height="958" alt="image" src="https://github.com/user-attachments/assets/c5f5426c-3b48-403b-85c9-c8f1620f609e" />
