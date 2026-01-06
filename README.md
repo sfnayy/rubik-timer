@@ -22,13 +22,13 @@ Memenuhi seluruh ketentuan Project UAS Pemrograman Web
 <h2>3. Fitur Aplikasi</h2>
 <h3>3.1 Autentikasi</h3>
 
-Login
+Login<br>
 <img width="1919" height="958" alt="image" src="https://github.com/user-attachments/assets/c5f5426c-3b48-403b-85c9-c8f1620f609e" />
+<br>
 
-
-Register
+Register<br>
 <img width="1919" height="957" alt="image" src="https://github.com/user-attachments/assets/5c56b354-8106-427c-9c74-81d31a554646" />
-
+<br>
 Hak akses berdasarkan role (Admin dan User)
 
 <h3>3.2 User</h3>
@@ -39,7 +39,7 @@ Melihat daftar waktu solve
 
 Mengubah dan menghapus data solve
 
-Melihat dashboard statistik sederhana
+Melihat dashboard statistik sederhana<br>
 <img width="1919" height="959" alt="image" src="https://github.com/user-attachments/assets/8d09ce1f-b039-45db-9fe2-d2aaae366067" />
 
 <h3>3.3 Admin</h3>
@@ -52,12 +52,12 @@ Monitoring data melalui halaman admin
 
 CRUD (Create, Read, Update, Delete)
 <img width="1919" height="959" alt="image" src="https://github.com/user-attachments/assets/3d3f1827-7605-42f2-a0cb-83998110e299" />
-
+<br>
 Pencarian data
-
+<br>
 Pagination
 <img width="409" height="446" alt="image" src="https://github.com/user-attachments/assets/ed48e75a-4760-4cd6-9953-6d0c3c8e646e" />
-
+<br>
 Desain responsif berbasis mobile first
 
 <h2>4. Teknologi yang Digunakan</h2>
