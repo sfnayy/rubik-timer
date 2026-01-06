@@ -31,7 +31,7 @@ Register
 
 Hak akses berdasarkan role (Admin dan User)
 
-3.2 User
+<h3>3.2 User</h3>
 
 Menambahkan data waktu solve
 
@@ -42,13 +42,13 @@ Mengubah dan menghapus data solve
 Melihat dashboard statistik sederhana
 <img width="1919" height="959" alt="image" src="https://github.com/user-attachments/assets/8d09ce1f-b039-45db-9fe2-d2aaae366067" />
 
-3.3 Admin
+<h3>3.3 Admin</h3>
 
 Mengelola dan melihat seluruh data solve pengguna
 
 Monitoring data melalui halaman admin
 
-3.4 Fitur Pendukung
+<h3>3.4 Fitur Pendukung</h3>
 
 CRUD (Create, Read, Update, Delete)
 <img width="1919" height="959" alt="image" src="https://github.com/user-attachments/assets/3d3f1827-7605-42f2-a0cb-83998110e299" />
@@ -60,7 +60,7 @@ Pagination
 
 Desain responsif berbasis mobile first
 
-4. Teknologi yang Digunakan
+<h2>4. Teknologi yang Digunakan</h2>
 
 Bahasa Pemrograman: PHP (Native)
 
@@ -74,7 +74,7 @@ Web Server: Apache
 
 Routing: .htaccess
 
-5. Struktur Direktori
+<h2>5. Struktur Direktori</h2>
 /rubik-timer/
 │
 ├── .htaccess                # Konfigurasi routing
@@ -107,7 +107,7 @@ Routing: .htaccess
 │
 └── README.md
 
-6. Cara Menjalankan Aplikasi
+<h2>6. Cara Menjalankan Aplikasi</h2>
 
 Clone repository:
 
@@ -130,7 +130,7 @@ Akses aplikasi melalui browser:
 
 http://localhost/rubik-timer
 
-7. Akun Demo
+<h2>7. Akun Demo</h2>
 
 Admin
 
@@ -142,7 +142,7 @@ User
 
 Registrasi melalui halaman register
 
-8. Dokumentasi
+<h2>8. Dokumentasi</h2>
 
  📄 Dokumentasi PDF: https://drive.google.com/file/d/13d1urvKuAseQA8aeyoLlBww4zc2_cAl7/view?usp=sharing
 
@@ -150,7 +150,7 @@ Registrasi melalui halaman register
 
 🌐 Link Demo Hosting: https://cubertimer.rf.gd/
 
-9. Penutup
+<h2>9. Penutup</h2>
 
 Aplikasi Rubik Timer ini diharapkan dapat memenuhi seluruh ketentuan Project UAS Pemrograman Web.
 Pengembangan lebih lanjut masih dapat dilakukan untuk meningkatkan fitur dan tampilan aplikasi.
