@@ -116,7 +116,7 @@ Registrasi melalui halaman register
 
  📄 Dokumentasi PDF: https://drive.google.com/file/d/13d1urvKuAseQA8aeyoLlBww4zc2_cAl7/view?usp=sharing
 
-🎥 Video Demo: berupa link YouTube (durasi maksimal 10 menit)
+🎥 Video Demo: https://youtu.be/wf2WUejDptM?si=3ixqIPR9Dt2oKWwp
 
 🌐 Link Demo Hosting: https://cubertimer.rf.gd/
 
