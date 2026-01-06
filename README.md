@@ -53,9 +53,8 @@ Monitoring data melalui halaman admin
 CRUD (Create, Read, Update, Delete)
 <img width="1919" height="959" alt="image" src="https://github.com/user-attachments/assets/3d3f1827-7605-42f2-a0cb-83998110e299" />
 <br>
-Pencarian data
+Pencarian data dan pagination
 <br>
-Pagination
 <img width="409" height="446" alt="image" src="https://github.com/user-attachments/assets/ed48e75a-4760-4cd6-9953-6d0c3c8e646e" />
 <br>
 Desain responsif berbasis mobile first
